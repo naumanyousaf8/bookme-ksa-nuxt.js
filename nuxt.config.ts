@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
 
   app: {
-    baseURL: '/bookme-saudi-arabia-clone-Nuxt.js-/', // ✅ EXACT repo name
+    baseURL: '/bookme-ksa-nuxt.js/', // ✅ EXACT repo name
     head: {
       title: 'Bookme Saudi Arabia - Book Flights Hotels & Events Online',
       meta: [
