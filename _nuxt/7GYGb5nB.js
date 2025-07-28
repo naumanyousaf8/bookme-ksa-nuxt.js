@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as o,o as a}from"./CK2oGnV1.js";const n={},c={class:"container"};function r(_,e){return a(),s("div",c,e[0]||(e[0]=[o("h1",null,"About Bookme",-1),o("p",null,"This is the About page.",-1)]))}const d=t(n,[["render",r],["__scopeId","data-v-8b27137e"]]);export{d as default};

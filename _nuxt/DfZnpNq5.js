@@ -1,0 +1,1 @@
+import{_ as c,c as a,a as e,o}from"./CK2oGnV1.js";const s={},n={class:"container"};function r(_,t){return o(),a("div",n,t[0]||(t[0]=[e("h1",null,"Contact Us",-1),e("p",null,"This is the Contact page.",-1)]))}const l=c(s,[["render",r],["__scopeId","data-v-cdd0bac9"]]);export{l as default};

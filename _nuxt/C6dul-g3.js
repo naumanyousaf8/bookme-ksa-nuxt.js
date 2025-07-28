@@ -1,0 +1,1 @@
+import{_ as c,c as o,a,o as s}from"./CK2oGnV1.js";const t={},r={class:"container"};function n(i,e){return s(),o("div",r,e[0]||(e[0]=[a("h1",null,"Privacy Policy",-1),a("p",null,"This is the Privacy Policy page.",-1)]))}const _=c(t,[["render",n],["__scopeId","data-v-aec0a5d5"]]);export{_ as default};

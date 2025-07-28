@@ -1,0 +1,1 @@
+import{_ as o,c as r,a as s,o as t}from"./CK2oGnV1.js";const c={},a={class:"container"};function n(_,e){return t(),r("div",a,e[0]||(e[0]=[s("h1",null,"Terms of Service",-1),s("p",null,"This is the Terms of Service page.",-1)]))}const d=o(c,[["render",n],["__scopeId","data-v-19784d78"]]);export{d as default};
